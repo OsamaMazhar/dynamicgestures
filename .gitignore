@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# Except
+
+!.gitignore
+!cnn_encode_isogd_all.py
+!create_descriptor_each_video.py
+!create_descriptor_from_bin_function.py
+!label_data.py
+!rnn_utils.py
+!list.py
+!rnn_skeleton_3.py
+!model_eval_isogd.py
